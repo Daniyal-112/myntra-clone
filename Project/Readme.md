@@ -1,4 +1,4 @@
-
+```
 # Myntra Clone
 
 A responsive front-end clone of the Myntra homepage built using HTML and CSS.
@@ -66,3 +66,4 @@ https://myntra-clone-by-daniyalrehman.vercel.app/
 
 Developed by Daniyal Rehman
 
+```
