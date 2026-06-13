@@ -1,3 +1,4 @@
+
 # Myntra Clone
 
 A responsive front-end clone of the Myntra homepage built using HTML and CSS.
@@ -21,48 +22,47 @@ A responsive front-end clone of the Myntra homepage built using HTML and CSS.
 
 ## Project Structure
 
-
 Project
-├─ images
-│ ├─ app.png
-│ ├─ banner.jpg
-│ ├─ categories
-│ │ ├─ 1.jpg
-│ │ ├─ 10.jpg
-│ │ ├─ 2.jpg
-│ │ ├─ 3.jpg
-│ │ ├─ 4.jpg
-│ │ ├─ 5.jpg
-│ │ ├─ 6.jpg
-│ │ ├─ 7.jpg
-│ │ ├─ 8.jpg
-│ │ └─ 9.jpg
-│ ├─ google.png
-│ ├─ myntra_logo.webp
-│ └─ offers
-│ ├─ 1.png
-│ ├─ 10.png
-│ ├─ 11.png
-│ ├─ 12.png
-│ ├─ 2.png
-│ ├─ 3.png
-│ ├─ 4.png
-│ ├─ 5.png
-│ ├─ 6.png
-│ ├─ 7.png
-│ ├─ 8.png
-│ └─ 9.png
-├─ index.html
-├─ Readme.md
-└─ style.css
+├── images
+│   ├── app.png
+│   ├── banner.jpg
+│   ├── categories
+│   │   ├── 1.jpg
+│   │   ├── 2.jpg
+│   │   ├── 3.jpg
+│   │   ├── 4.jpg
+│   │   ├── 5.jpg
+│   │   ├── 6.jpg
+│   │   ├── 7.jpg
+│   │   ├── 8.jpg
+│   │   ├── 9.jpg
+│   │   └── 10.jpg
+│   ├── google.png
+│   ├── myntra_logo.webp
+│   └── offers
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── 4.png
+│       ├── 5.png
+│       ├── 6.png
+│       ├── 7.png
+│       ├── 8.png
+│       ├── 9.png
+│       ├── 10.png
+│       ├── 11.png
+│       └── 12.png
+├── index.html
+├── README.md
+└── style.css
 
 
 ## Live Demo
 
-Add your GitHub Pages link here:
-
+https://myntra-clone-by-daniyalrehman.vercel.app/
 
 
 ## Author
 
 Developed by Daniyal Rehman
+
