@@ -59,7 +59,7 @@ Project
 
 ## Live Demo
 
-[Live Demo](https://myntra-clone-by-daniyalrehman.vercel.app/)
+[live Demo](https://myntra-clone-by-daniyalrehman.vercel.app/)
 
 
 ## Author
